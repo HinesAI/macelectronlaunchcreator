@@ -10,14 +10,14 @@ rendering artifacts unless started from Terminal with flags.
 ## Build The Default Launchers
 
 ```zsh
-cd "/Users/jay/Documents/New project 5/electron-safe-launchers"
+cd "location of files"
 ./build-default-launchers.zsh
 ```
 
 The generated launchers will be placed in:
 
 ```text
-/Users/jay/Documents/New project 5/electron-safe-launchers/Launchers
+location of files/Launchers
 ```
 
 Drag the generated `.app` launchers to the Dock, then remove the original app
